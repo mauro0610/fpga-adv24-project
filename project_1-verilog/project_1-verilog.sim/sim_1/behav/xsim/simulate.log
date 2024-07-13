@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Time=0, CLKP=0, RSTB_SW=1, RESULT=  x
+Time=0, CLKP=0, RSTB_SW=1, RESULT=  0
+Time=5, CLKP=1, RSTB_SW=1, RESULT=  0
+Time=10, CLKP=0, RSTB_SW=1, RESULT=  0
+Time=15, CLKP=1, RSTB_SW=1, RESULT=  0
+Time=20, CLKP=0, RSTB_SW=0, RESULT=  0
+Time=25, CLKP=1, RSTB_SW=0, RESULT=  0
+Time=30, CLKP=0, RSTB_SW=0, RESULT=  0
+Time=35, CLKP=1, RSTB_SW=0, RESULT=  0
+$stop called at time : 40 ns : File "C:/Users/OhmoriG_Rogue/Downloads/fpga-advanced-2024/project_1-verilog/project_1-verilog.srcs/sim_1/new/top-benchtest.v" Line 47

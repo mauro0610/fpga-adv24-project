@@ -1,0 +1,31 @@
+# Pin constraints for the FPGA
+set_property PACKAGE_PIN F22 [get_ports {CLKP}]
+set_property IOSTANDARD LVDS_25 [get_ports {CLKP}]
+set_property PACKAGE_PIN E23 [get_ports {CLKN}]
+set_property IOSTANDARD LVDS_25 [get_ports {CLKN}]
+
+set_property PACKAGE_PIN H9 [get_ports {RSTB_SW}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RSTB_SW}]
+
+# Assuming the result is connected to an 8-bit output, such as LEDs
+set_property PACKAGE_PIN A8 [get_ports {RESULT[0]}]
+set_property PACKAGE_PIN A9 [get_ports {RESULT[1]}]
+set_property PACKAGE_PIN A10 [get_ports {RESULT[2]}]
+set_property PACKAGE_PIN A12 [get_ports {RESULT[3]}]
+set_property PACKAGE_PIN A13 [get_ports {RESULT[4]}]
+set_property PACKAGE_PIN A14 [get_ports {RESULT[5]}]
+set_property PACKAGE_PIN A15 [get_ports {RESULT[6]}]
+set_property PACKAGE_PIN B9 [get_ports {RESULT[7]}]
+set_property PACKAGE_PIN B10 [get_ports {RESULT[8]}]
+set_property PACKAGE_PIN B11 [get_ports {RESULT[9]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[4]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[5]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[6]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[7]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[8]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RESULT[9]}]
+

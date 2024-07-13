@@ -1,0 +1,2 @@
+dsp_macro_1.vhd,vhdl,xil_defaultlib,../../../../project_1-verilog-exe1.gen/sources_1/ip/dsp_macro_1/sim/dsp_macro_1.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

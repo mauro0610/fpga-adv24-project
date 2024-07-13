@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/OhmoriG_Rogue/Downloads/fpga-advanced-2024/project_1-verilog/project_1-verilog.ip_user_files/ip/ila_0/sim/ila_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ila_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/OhmoriG_Rogue/Downloads/fpga-advanced-2024/project_1-verilog/project_1-verilog.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module toplevel
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/OhmoriG_Rogue/Downloads/fpga-advanced-2024/project_1-verilog/project_1-verilog.srcs/sim_1/new/top-benchtest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_toplevel
